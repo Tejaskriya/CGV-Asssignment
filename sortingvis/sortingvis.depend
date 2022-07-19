@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1656688511 source:d:\cgv\sortingvis\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL\glut.h>
+
+1426327440 c:\mingw\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437534942 c:\mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
